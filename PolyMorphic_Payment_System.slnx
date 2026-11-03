@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PolyMorphic_Payment_System/PolyMorphic_Payment_System.vcxproj" Id="4c0edf83-b401-49fe-a005-5b8c2370df1a" />
+</Solution>
